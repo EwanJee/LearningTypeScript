@@ -1,0 +1,16 @@
+{
+  "name": "learningtypescript",
+  "version": "1.0.0",
+  "description": "쉬는 시간마다 하는 UDEMY 타입스크립트 공부하는 저장소입니다",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "latest-version": "^8.0.0",
+    "lite-server": "^2.6.1",
+    "npm": "^10.4.0"
+  }
+}
